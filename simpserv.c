@@ -35,7 +35,7 @@ char **argv;
         argv = argv;
 
         /* userlog writes to the central TUXEDO message log */
-        userlog("Welcome to the simple server");
+        userlog("POC FALABELLA Welcome to the simple server");
         return(0);
 }
 
